@@ -1,0 +1,8 @@
+build_unix
+build_xcode
+build_windows
+bazel-bin
+bazel-genfiles
+bazel-python3-bazel-example
+bazel-out
+bazel-testlogs
